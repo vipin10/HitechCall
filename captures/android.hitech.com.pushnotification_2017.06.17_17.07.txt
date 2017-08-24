@@ -1,0 +1,86 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        d39d476 android.hitech.com.pushnotification/.MainActivity
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      com.android.vending.INSTALL_REFERRER:
+        99f9a77 android.hitech.com.pushnotification/com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+      com.google.android.c2dm.intent.RECEIVE:
+        90f36e4 android.hitech.com.pushnotification/com.google.firebase.iid.FirebaseInstanceIdReceiver
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.google.firebase.INSTANCE_ID_EVENT:
+        68c074d android.hitech.com.pushnotification/com.google.firebase.iid.FirebaseInstanceIdService
+      com.google.firebase.MESSAGING_EVENT:
+        666c202 android.hitech.com.pushnotification/com.google.firebase.messaging.FirebaseMessagingService
+      android.service.notification.NotificationListenerService:
+        8696713 android.hitech.com.pushnotification/.Property
+
+Permissions:
+  Permission [android.hitech.com.pushnotification.permission.C2D_MESSAGE] (dfadd50):
+    sourcePackage=android.hitech.com.pushnotification
+    uid=10101 gids=null type=0 prot=signature
+    perm=Permission{f1ecb49 android.hitech.com.pushnotification.permission.C2D_MESSAGE}
+    packageSetting=PackageSetting{582fc4e android.hitech.com.pushnotification/10101}
+
+Registered ContentProviders:
+  android.hitech.com.pushnotification/com.google.firebase.provider.FirebaseInitProvider:
+    Provider{3f9616f android.hitech.com.pushnotification/com.google.firebase.provider.FirebaseInitProvider}
+
+ContentProvider Authorities:
+  [android.hitech.com.pushnotification.firebaseinitprovider]:
+    Provider{3f9616f android.hitech.com.pushnotification/com.google.firebase.provider.FirebaseInitProvider}
+      applicationInfo=ApplicationInfo{7b87e7c android.hitech.com.pushnotification}
+
+Key Set Manager:
+  [android.hitech.com.pushnotification]
+      Signing KeySets: 15
+
+Packages:
+  Package [android.hitech.com.pushnotification] (582fc4e):
+    userId=10101
+    pkg=Package{fffd305 android.hitech.com.pushnotification}
+    codePath=/data/app/android.hitech.com.pushnotification-1
+    resourcePath=/data/app/android.hitech.com.pushnotification-1
+    legacyNativeLibraryDir=/data/app/android.hitech.com.pushnotification-1/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 targetSdk=25
+    versionName=1.0
+    splits=[base]
+    applicationInfo=ApplicationInfo{7b87e7c android.hitech.com.pushnotification}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/user/0/android.hitech.com.pushnotification
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-06-12 16:38:31
+    firstInstallTime=2017-06-12 16:38:31
+    lastUpdateTime=2017-06-12 16:38:31
+    signatures=PackageSignatures{d168f5a [5a1cbc9]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    declared permissions:
+      android.hitech.com.pushnotification.permission.C2D_MESSAGE: prot=signature, INSTALLED
+    requested permissions:
+      android.permission.WAKE_LOCK
+      android.permission.INTERNET
+      android.permission.READ_PHONE_STATE
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.ACCESS_NOTIFICATION_POLICY
+      android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
+      android.permission.ACCESS_NETWORK_STATE
+      com.google.android.c2dm.permission.RECEIVE
+      android.hitech.com.pushnotification.permission.C2D_MESSAGE
+    install permissions:
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      android.permission.ACCESS_NOTIFICATION_POLICY: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      android.hitech.com.pushnotification.permission.C2D_MESSAGE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+      gids=[3003]
+      runtime permissions:

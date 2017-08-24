@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\HitechCall\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tick.xml",
+        "source": "C:\\HitechCall\\app\\src\\main\\res\\menu\\tick.xml"
+    },
+    {
+        "merged": "C:\\HitechCall\\app\\build\\intermediates\\res\\merged\\debug\\menu\\options.xml",
+        "source": "C:\\HitechCall\\app\\src\\main\\res\\menu\\options.xml"
+    },
+    {
+        "merged": "C:\\HitechCall\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_nav_drawer.xml",
+        "source": "C:\\HitechCall\\app\\src\\main\\res\\menu\\activity_home_nav_drawer.xml"
+    },
+    {
+        "merged": "C:\\HitechCall\\app\\build\\intermediates\\res\\merged\\debug\\menu\\optionmenu2.xml",
+        "source": "C:\\HitechCall\\app\\src\\main\\res\\menu\\optionmenu2.xml"
+    }
+]

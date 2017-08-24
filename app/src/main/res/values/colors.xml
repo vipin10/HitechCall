@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="newcolor">#085394</color>
+    <color name="bottommenu">#333333</color>
+    <color name="AppAppBar">#085394</color>
+    <color name="LoginBack">#085394</color>
+</resources>

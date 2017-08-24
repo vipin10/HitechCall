@@ -1,0 +1,7 @@
+#Fri Jul 14 15:57:08 IST 2017
+base.0=C\:\\HitechCall\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_881121d03fb8c261b8fc71a8836254c8dae744e7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\HitechCall\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_23dbb8bc27b78c6321d25867c52bfe17f587bcd5\\classes.dex
+base.1=C\:\\HitechCall\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_23dbb8bc27b78c6321d25867c52bfe17f587bcd5
+file.0=C\:\\HitechCall\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_881121d03fb8c261b8fc71a8836254c8dae744e7\\classes.dex
